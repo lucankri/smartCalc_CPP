@@ -1,4 +1,4 @@
-# SmartCalc v1.0
+# SmartCalc v2.0
 
 ## Introduction
 
