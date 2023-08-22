@@ -87,14 +87,20 @@
     <summary>Не много скриншотов SmartCalc</summary>
 <br/>
 
-- ![](./ScreenShot_SmartCalc/Screenshot%20from%202023-05-03%2002-18-33.png)
+- ![](./ScreenShot_SmartCalc/screen_1.jpg)
 <br/><br/><br/>
 
-- ![](./ScreenShot_SmartCalc/Screenshot%20from%202023-05-03%2002-19-19.png)
+- ![](./ScreenShot_SmartCalc/screen_2.jpg)
 <br/><br/><br/>
 
-- ![](./ScreenShot_SmartCalc/Screenshot%20from%202023-05-03%2002-20-17.png)
+- ![](./ScreenShot_SmartCalc/screen_3.jpg)
 <br/><br/><br/>
 
-- ![](./ScreenShot_SmartCalc/Screenshot%20from%202023-05-03%2002-20-38.png)
+- ![](./ScreenShot_SmartCalc/screen_4.jpg)
+<br/><br/><br/>
+
+- ![](./ScreenShot_SmartCalc/screen_5.jpg)
+<br/><br/><br/>
+
+- ![](./ScreenShot_SmartCalc/screen_6.jpg)
 </details>
